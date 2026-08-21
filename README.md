@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31296124/README.md)
 # 🏢 Anticipez les besoins en consommation des bâtiments
 
 Prédiction de la consommation énergétique totale et des émissions de gaz à effet de serre (GES) de bâtiments non résidentiels à partir de leurs caractéristiques structurelles, sans recourir à des relevés de consommation coûteux.
@@ -46,13 +45,6 @@ Le projet s'appuie sur le jeu de données public **Building Energy Benchmarking*
 4. **Évaluation** : comparaison des modèles via RMSE / R², avec et sans le score ENERGY STAR comme variable explicative.
 5. **Interprétation** : analyse des variables les plus influentes avec SHAP.
 
-## ⚙️ Installation
-
-```bash
-pip install pandas numpy matplotlib seaborn missingno scikit-learn shap jupyter
-jupyter notebook
-```
-
 ## 👤 Auteur
 
-David Depouez — Projet réalisé dans le cadre de la formation *Ingénieur Machine Learning*.
+David Depouez — Projet réalisé dans le cadre de la formation *Ingénieur Machine Learning (OpenClassrooms, RNCP niv. 7)*.
