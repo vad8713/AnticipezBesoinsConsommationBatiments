@@ -27,6 +27,7 @@ Le projet s'appuie sur le jeu de données public **Building Energy Benchmarking*
 | `consommation_1_notebook_exploratoire.ipynb` | Exploration, nettoyage et sélection des variables (valeurs manquantes, doublons, corrélations, usages non pertinents, analyse de la localisation). |
 | `consommation_2_notebook_prediction.ipynb` | Modélisation de la cible **Energie**, avec et sans le score ENERGY STAR. |
 | `consommation_3_notebook_prediction.ipynb` | Modélisation de la cible **Émissions de GES (TotalGHGEmissions)**, avec et sans le score ENERGY STAR. |
+| `consommation_4_presentation.pptx` | Fichier de présentation. |
 
 ## 🧰 Technologies utilisées
 
